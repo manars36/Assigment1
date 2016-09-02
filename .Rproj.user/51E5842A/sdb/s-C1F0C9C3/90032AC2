@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "#RIDGE REGRESSION\n\n#loading libraries\nlibrary(MASS)\n\n\n#importing data\ndirectory <- \"C:/Users/Armin/OneDrive/Dokumenty/Projekty R/Multivariate Statistics/Assigment1\"\nsetwd(directory)\n\nload(\"C:/Users/Armin/OneDrive/Dokumenty/Projekty R/Multivariate Statistics/Assigment1/supermarket1996.RData\")\ndata <- supermarket1996\n",
+    "created" : 1472719056921.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1860766227",
+    "id" : "90032AC2",
+    "lastKnownWriteTime" : 7003722137351827761,
+    "last_content_update" : 1472726181844,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
